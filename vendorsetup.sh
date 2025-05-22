@@ -7,6 +7,7 @@ export OF_SCREEN_H=1600
 export OF_DYNAMIC_FULL_SIZE=9126805504  
 export FOX_USE_BASH_SHELL=1  
 export FOX_ASH_IS_BASH=1  
+export FOX_BUILD_DEVICE="ums512_1h10"
 
 # Unisoc-specific flags  
 export OF_FIX_DECRYPTION_ON_DATA_MEDIA=1  
